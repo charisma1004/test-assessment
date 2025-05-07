@@ -23,7 +23,3 @@ Then run this command to start your local server
 ```bash
 npm start
 ```
-
-
-wa.me/639279641309
-taman.contact.hello@gmail.com
